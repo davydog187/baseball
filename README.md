@@ -1,21 +1,12 @@
 # Baseball
 
-**TODO: Add description**
+Example of a "Machine Learning" NIF that uses ResourceArcs to store state and
+run a "model"
 
-## Installation
+## Usage
+Demonstrate it works by running the tests
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `baseball` to your list of dependencies in `mix.exs`:
+```bash
+mix test
 
-```elixir
-def deps do
-  [
-    {:baseball, "~> 0.1.0"}
-  ]
-end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/baseball](https://hexdocs.pm/baseball).
-
